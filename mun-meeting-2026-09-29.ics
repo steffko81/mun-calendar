@@ -8,7 +8,10 @@ UID:mun-meeting-20260929@bkizmirnorth
 DTSTAMP:20260923T182900Z
 DTSTART;TZID=Europe/Istanbul:20260929T200000
 DTEND;TZID=Europe/Istanbul:20260929T210000
+RRULE:FREQ=WEEKLY;BYDAY=TU
 SUMMARY:BK Izmir North Campus MUN Club — Meeting
-DESCRIPTION:MUN Club meeting.
+LOCATION:Google Meet — https://meet.google.com/rej-cuyy-opu
+DESCRIPTION:MUN Club meeting.\n\nGoogle Meet: https://meet.google.com/rej-cuyy-opu
+URL:https://meet.google.com/rej-cuyy-opu
 END:VEVENT
 END:VCALENDAR
