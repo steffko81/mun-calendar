@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BK Izmir North Campus//One-Time Calendar Events//E
+ N
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:goethe-izmir-lehrkraefte-20261119-1900@mun-calendar.stef
+ fko81
+DTSTAMP:20261103T101551Z
+DTSTART:20261119T190000Z
+DTEND:20261119T200000Z
+SUMMARY:Goethe/İzmir Lehrkräfte - Videogespräch
+LOCATION:Google Meet - https://meet.google.com/meet/qxv-jmdm
+ -kyj
+DESCRIPTION:Online-Besprechung der Lehrkraefte zur moegliche
+ n Zusammenarbeit zwischen Goethe-Gymnasium Ibbenbueren und B
+ K Izmir North Campus.\nGoogle Meet: https://meet.google.com/
+ meet/qxv-jmdm-kyj\nGoogle Calendar: https://calendar.app.goo
+ gle/6sdk2dWvLjqdhuTi8
+URL:https://meet.google.com/meet/qxv-jmdm-kyj
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
